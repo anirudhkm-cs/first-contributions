@@ -20,7 +20,8 @@
 - [HMT](https://github.com/HlaingMinThan)
  -[Naimur Rahman](https://github.com/naimprog)
  -[Tomáš Šmelko](https://github.com/TSmelko)
-- Matt
+- MattA
+Anirudh Krishnamurhty
 - Gabija
 - Ccode-lang
 - Jino Rohit
